@@ -32,7 +32,7 @@ Why Use Gradient Boosting for Sepsis Prediction?
 Evaluation Metrics for Gradient Boosting
 * ROC-AUC Score: Measures the model’s ability to distinguish between septic and non-septic patients.
 * Confusion Matrix: Evaluates False Positives and False Negatives, crucial for medical diagnoses.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Neural Network Model:
 
 Neural Networks are deep learning models inspired by the human brain. They are especially useful for complex pattern recognition and can uncover deep relationships within the data that traditional models might miss.
