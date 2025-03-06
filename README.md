@@ -44,6 +44,12 @@ Why Use Neural Networks for Sepsis Prediction?
 
 Evaluation Metrics for Neural Network Model
 * ROC-AUC Curve: To compare with Gradient Boosting and assess model reliability.
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Evauation:
+  Performance evaluation using metrics like ROC-AUC Score and Confusion Matrix.
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------# Visualization & Insights:
 
+* Feature importance analysis to highlight critical biomarkers for sepsis prediction.
+* ROC Curve visualization to compare model performance.
 
   
