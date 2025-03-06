@@ -10,7 +10,7 @@ The models aim to provide early detection of sepsis by analyzing clinical parame
 * It includes vital signs, lab results, and other features relevant to sepsis detection.
 * Preprocessing steps handle missing values and normalize the data for model training.
 
-#Project Workflow
+# Project Workflow
 1. Data Preprocessing
 *Handling missing values using SimpleImputer
 *Feature scaling with StandardScaler
