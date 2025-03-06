@@ -42,8 +42,9 @@ Why Use Neural Networks for Sepsis Prediction?
 * Adaptive learning ensures the model improves with more data.
 * Deep feature extraction allows it to find hidden patterns that might indicate early-stage sepsis.
 
-Evaluation Metrics for Neural Network Model
-* ROC-AUC Curve: To compare with Gradient Boosting and assess model reliability.
+* Evaluation Metrics for Neural Network Model
+
+  ROC-AUC Curve: To compare with Gradient Boosting and assess model reliability.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Evauation:
   Performance evaluation using metrics like ROC-AUC Score and Confusion Matrix.
