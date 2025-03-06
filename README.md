@@ -47,7 +47,8 @@ Evaluation Metrics for Neural Network Model
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Evauation:
-  Performance evaluation using metrics like ROC-AUC Score and Confusion Matrix.
+
+  * Performance evaluation using metrics like ROC-AUC Score and Confusion Matrix.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Visualization & Insights:
 
